@@ -1,35 +1,35 @@
 {
     "section": {
       "id": "ComboArmors",
-      "title": "Броня на 100 миллионов c модулями",
+      "title": "Combo Armors | Броня на 100 миллионов без модулей",
       "items": [
         {
           "name": "Улучшенный Квантовый Шлем",
-          "image": "https://i.imgur.com/3oh5z2f.png",
+          "image": "https://mixicons.zrefio.com/api/items/4000/32/",
           "quantity": "1",
-          "cost": "≥ 10 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥7 уран. блоков",
+          "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
         },
         {
           "name": "Квантовая кираса с электрическим реактивным ранцем и мультиранцем",
-          "image": "https://i.imgur.com/VLItJTM.png",
+          "image": "https://mixicons.zrefio.com/api/items/4034/32/",
           "quantity": "1",
-          "cost": "≥ 9 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥7 уран. блоков",
+          "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
         },
         {
           "name": "Улучшенные квантовые поножи",
-          "image": "https://i.imgur.com/ZRrTkKQ.png",
+          "image": "https://mixicons.zrefio.com/api/items/4004/32/",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥7 уран. блоков",
+          "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
         },
         {
           "name": "Электростатические квантовые ботинки",
-          "image": "https://i.imgur.com/WlenKUH.png",
+          "image": "https://mixicons.zrefio.com/api/items/4042/32/",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥7 уран. блоков",
+          "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
         }
       ]
     }

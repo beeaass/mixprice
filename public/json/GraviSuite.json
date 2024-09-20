@@ -5,73 +5,73 @@
     "items": [
       {
         "name": "Гравитационный нагрудник",
-        "image": "https://i.imgur.com/Bv7prcg.png",
+        "image": "https://mixicons.zrefio.com/api/items/3964/32/",
         "quantity": "1",
         "cost": "≥48 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Совершенный мультиранец",
-        "image": "https://i.imgur.com/6sKooLi.png",
+        "image": "https://mixicons.zrefio.com/api/items/3966/32/",
         "quantity": "1",
         "cost": "≥9 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Сверхпроводник",
-        "image": "https://i.imgur.com/pa6IpVW.png",
+        "image": "https://mixicons.zrefio.com/api/items/3969/32/",
         "quantity": "1",
         "cost": "≥2 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Разрушитель/Ваджра",
-        "image": "https://i.imgur.com/t2sfEbV.png",
+        "image": "https://mixicons.zrefio.com/api/items/3975/32/",
         "quantity": "1",
         "cost": "≥63 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Продвинутый алмазный бур",
-        "image": "https://i.imgur.com/EMOhpb4.png",
+        "image": "https://mixicons.zrefio.com/api/items/3977/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Продвинутая электропила",
-        "image": "https://i.imgur.com/nzM6oRd.png",
+        "image": "https://mixicons.zrefio.com/api/items/3979/32/",
         "quantity": "1",
         "cost": "≥2 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Улучшеный мультиранец",
-        "image": "https://i.imgur.com/iuZMgoA.png",
+        "image": "https://mixicons.zrefio.com/api/items/3981/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Улучшенный реактивный ранец",
-        "image": "https://i.imgur.com/F2XQQGJ.png",
+        "image": "https://mixicons.zrefio.com/api/items/3983/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Грави - инструмент",
-        "image": "https://i.imgur.com/STztpTX.png",
+        "image": "https://mixicons.zrefio.com/api/items/3985/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Улучшенный нано-нагрудник",
-        "image": "https://i.imgur.com/jzfRqal.png",
+        "image": "https://mixicons.zrefio.com/api/items/3987/32/",
         "quantity": "1",
         "cost": "≥6 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       }
     ]
   }

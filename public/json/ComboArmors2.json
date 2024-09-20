@@ -1,35 +1,238 @@
 {
     "section": {
       "id": "ComboArmors",
-      "title": "Броня на 100 миллионов без модулей",
+      "title": "Броня / Ранцы / Инструменты",
       "items": [
         {
-          "name": "Улучшенный Квантовый Шлем",
-          "image": "https://i.imgur.com/3oh5z2f.png",
+          "name": "Нанно-кираса с бат-паком",
+          "image": "https://i.imgur.com/zPbfz7g.png",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Нано-кираса с мультиранцем",
+          "image": "https://i.imgur.com/UKN2cgL.png",
+          "quantity": "1",
+          "cost": "≥ 3 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Нано-кираса с электрическим реактивным ранцем",
+          "image": "https://i.imgur.com/p5R21v1.png",
+          "quantity": "1",
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Нано-кираса с электрическим реактивным ранцем и мультиранцем",
+          "image": "https://i.imgur.com/B7axV3W.png",
+          "quantity": "1",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Квантовая кираса с бат-паком",
+          "image": "https://i.imgur.com/QUgGlZQ.png",
+          "quantity": "1",
+          "cost": "≥ 6 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Квантовая кираса с мультиранцем",
+          "image": "https://i.imgur.com/yabUmVc.png",
+          "quantity": "1",
+          "cost": "≥ 7 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Квантовая кираса с электрическим реактивным ранцем",
+          "image": "https://i.imgur.com/EOLVFrz.png",
+          "quantity": "1",
+          "cost": "≥ 8 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
         },
         {
           "name": "Квантовая кираса с электрическим реактивным ранцем и мультиранцем",
           "image": "https://i.imgur.com/VLItJTM.png",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥ 10 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный нано-шлем",
+          "image": "https://i.imgur.com/mE1Jt1R.png",
+          "quantity": "1",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенная нано-кираса",
+          "image": "https://i.imgur.com/UqXj6Gg.png",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенные нано-поножи",
+          "image": "https://i.imgur.com/IbjJ2uV.png",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенные нано-ботинки",
+          "image": "https://i.imgur.com/y2CY53O.png",
+          "quantity": "1",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный квантовый шлем",
+          "image": "https://mixicons.zrefio.com/api/items/4000/32/",
+          "quantity": "1",
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенная квантовая кираса",
+          "image": "https://i.imgur.com/jciNsXS.png",
+          "quantity": "1",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
         },
         {
           "name": "Улучшенные квантовые поножи",
           "image": "https://i.imgur.com/ZRrTkKQ.png",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенные квантовые ботинки",
+          "image": "https://i.imgur.com/AvHxRCt.png",
+          "quantity": "1",
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный электрический реактивный ранец",
+          "image": "https://i.imgur.com/OxCOUZ4.png",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный бат-пак",
+          "image": "https://i.imgur.com/NxIsxfT.png",
+          "quantity": "1",
+          "cost": "≥ 3 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный мультиранец",
+          "image": "https://i.imgur.com/9s3vAO8.png",
+          "quantity": "1",
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Продвинутый электрический реактивный ранец",
+          "image": "https://i.imgur.com/nRN3ih6.png",
+          "quantity": "1",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Мульти-электро реактивный ранец",
+          "image": "https://i.imgur.com/WfPQI7m.png",
+          "quantity": "1",
+          "cost": "≥ 6 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Улучшенный СП - шлем",
+          "image": "https://i.imgur.com/gqVt5Nh.png",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - нановолоконный шлем",
+          "image": "https://i.imgur.com/KCF72NM.png",
+          "quantity": "1",
+          "cost": "≥ 3 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - нановолоконный шлем LV",
+          "image": "https://i.imgur.com/KCF72NM.png",
+          "quantity": "1",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - нановолоконный шлем MV",
+          "image": "https://i.imgur.com/KCF72NM.png",
+          "quantity": "1",
+          "cost": "≥ 17 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - нановолоконный шлем HV",
+          "image": "https://i.imgur.com/KCF72NM.png",
+          "quantity": "1",
+          "cost": "≥ 11 уран. блоков",
           "costImage": "https://i.imgur.com/w7KhpUV.png"
+        },
+        {
+          "name": "СП - квантовый шлем",
+          "image": "https://i.imgur.com/fDxZBMA.png",
+          "quantity": "1",
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - квантовый шлем LV",
+          "image": "https://i.imgur.com/fDxZBMA.png",
+          "quantity": "1",
+          "cost": "≥ 9 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - квантовый шлем MV",
+          "image": "https://i.imgur.com/fDxZBMA.png",
+          "quantity": "1",
+          "cost": "≥ 21 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "СП - квантовый шлем HV",
+          "image": "https://i.imgur.com/fDxZBMA.png",
+          "quantity": "1",
+          "cost": "≥ 12 уран. блоков",
+          "costImage": "https://i.imgur.com/w7KhpUV.png"
+        },
+        {
+          "name": "Улучшенные электростатические ботинки",
+          "image": "https://i.imgur.com/X4ozwjO.png",
+          "quantity": "1",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Электростатические нановолоконные ботинки",
+          "image": "https://i.imgur.com/Yom5Nzg.png",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
         },
         {
           "name": "Электростатические квантовые ботинки",
           "image": "https://i.imgur.com/WlenKUH.png",
           "quantity": "1",
-          "cost": "≥ 7 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
         }
       ]
     }

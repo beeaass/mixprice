@@ -1,84 +1,14 @@
 {
     "section": {
       "id": "ComboArmors",
-      "title": "ComboArmors | Модули",
+      "title": "ComboArmors | Механизмы",
       "items": [
         {
-          "name": "Модуль улучшения",
-          "image": "https://i.imgur.com/D5w9Ono.png",
-          "quantity": "≤ 2",
-          "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП-модуль",
-          "image": "https://i.imgur.com/Z6RRKFs.png",
-          "quantity": "1",
-          "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "MV Solar Production Upgrade Module",
-          "image": "https://i.imgur.com/GjPqhfp.png",
-          "quantity": "1",
-          "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "LV Solar Production Upgrade Module",
-          "image": "https://i.imgur.com/5h9bmiv.png",
-          "quantity": "1",
-          "cost": "≥ 17 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "HV Solar Production Upgrade Module",
-          "image": "https://i.imgur.com/o4dJNbM.png",
-          "quantity": "1",
-          "cost": "≥ 11 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
-        },
-        {
-          "name": "Модуль 'Продвинутый хранитель энергии'",
-          "image": "https://i.imgur.com/QPwiOnQ.png",
-          "quantity": "1",
-          "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Модуль 'Мульти-электро хранитель энергии'",
-          "image": "https://i.imgur.com/5jfMLby.png",
+          "name": "Сборщик брони",
+          "image": "https://mixicons.zrefio.com/api/items/4308/32/",
           "quantity": "1",
           "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Модуль 'Турбина для полёта'",
-          "image": "https://i.imgur.com/d9DVEC3.png",
-          "quantity": "1",
-          "cost": "≥ 3 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Модуль 'Временной'",
-          "image": "https://i.imgur.com/WZbj3JX.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Модуль 'Статическое производство'",
-          "image": "https://i.imgur.com/PnhIdyV.png",
-          "quantity": "1",
-          "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Модуль 'Разряд'",
-          "image": "https://i.imgur.com/ysPiDvF.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         }
       ]
     }

@@ -5,273 +5,273 @@
     "items": [
       {
         "name": "Крепкая кварцевая руда",
-        "image": "https://i.imgur.com/j0yPkWg.png",
+        "image": "https://mixicons.zrefio.com/api/items/4641/32/",
         "quantity": "1",
         "cost": "3 кристалла кварца",
-        "costImage": "https://i.imgur.com/W2gtoTk.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/4364/32/"
       },
       {
         "name": "Крепкая кварцевая руда",
-        "image": "https://i.imgur.com/j0yPkWg.png",
+        "image": "https://mixicons.zrefio.com/api/items/4641/32/",
         "quantity": "2",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Кристалл кварца",
-        "image": "https://i.imgur.com/W2gtoTk.png",
+        "image": "https://mixicons.zrefio.com/api/items/4364/32/",
         "quantity": "16",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Кварцевая пыль",
-        "image": "https://i.imgur.com/lxIz5uv.png",
+        "image": "https://mixicons.zrefio.com/api/items/4365/32/",
         "quantity": "16",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Конвертирующая матрица",
-        "image": "https://i.imgur.com/PwlWrio.png",
+        "image": "https://mixicons.zrefio.com/api/items/4344/32/",
         "quantity": "1",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Беспроводной приёмник",
-        "image": "https://i.imgur.com/3vaxrr6.png",
+        "image": "https://mixicons.zrefio.com/api/items/4362/32/",
         "quantity": "1",
         "cost": "≥2 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Незаконченный стандартный процессор",
-        "image": "https://i.imgur.com/31IELWD.png",
+        "image": "https://mixicons.zrefio.com/api/items/4355/32/",
         "quantity": "2",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ стандартный процессор",
-        "image": "https://i.imgur.com/jdUxYhi.png",
+        "image": "https://mixicons.zrefio.com/api/items/4352/32/",
         "quantity": "2",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Незаконченный улучшенный процессор",
-        "image": "https://i.imgur.com/mLdM965.png",
+        "image": "https://mixicons.zrefio.com/api/items/4356/32/",
         "quantity": "1",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ улучшенный процессор",
-        "image": "https://i.imgur.com/nzzaSTi.png",
+        "image": "https://mixicons.zrefio.com/api/items/4353/32/",
         "quantity": "1",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ кабель",
-        "image": "https://i.imgur.com/sNGsvts.png",
+        "image": "https://mixicons.zrefio.com/api/items/4631/32/",
         "quantity": "8",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ точная импортирующая шина",
-        "image": "https://i.imgur.com/jKugIRv.png",
+        "image": "https://mixicons.zrefio.com/api/items/4633/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ точная экспортирующая шина",
-        "image": "https://i.imgur.com/OJ33vXp.png",
+        "image": "https://mixicons.zrefio.com/api/items/4626/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ интерактивная шина импорта",
-        "image": "https://i.imgur.com/BQN1hNN.png",
+        "image": "https://mixicons.zrefio.com/api/items/4644/32/",
         "quantity": "1",
         "cost": "≥5 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ интерактивная шина экспорта",
-        "image": "https://i.imgur.com/ibcnXJd.png",
+        "image": "https://mixicons.zrefio.com/api/items/4643/32/",
         "quantity": "1",
         "cost": "≥5 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ шина взаимодействия",
-        "image": "https://i.imgur.com/Y37Zsus.png",
+        "image": "https://mixicons.zrefio.com/api/items/4640/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ интерактивная шина взаимодействия",
-        "image": "https://i.imgur.com/INH7WtP.png",
+        "image": "https://mixicons.zrefio.com/api/items/4632/32/",
         "quantity": "1",
         "cost": "≥5 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ излучатель сигнала",
-        "image": "https://i.imgur.com/che2ihS.png",
+        "image": "https://mixicons.zrefio.com/api/items/4635/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ монитор",
-        "image": "https://i.imgur.com/Gpotemm.png",
+        "image": "https://mixicons.zrefio.com/api/items/4629/32/",
         "quantity": "1",
         "cost": "≥4 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ сборочный монитор",
-        "image": "https://i.imgur.com/ocV6OxK.png",
+        "image": "https://mixicons.zrefio.com/api/items/4628/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ терминал доступа",
-        "image": "https://i.imgur.com/wclwSqB.png",
+        "image": "https://mixicons.zrefio.com/api/items/4622/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ точка беспроводного доступа",
-        "image": "https://i.imgur.com/7bTZDfl.png",
+        "image": "https://mixicons.zrefio.com/api/items/4621/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ беспроводная точка доступа",
-        "image": "https://i.imgur.com/XIgCpIT.png",
+        "image": "https://mixicons.zrefio.com/api/items/4341/32/",
         "quantity": "1",
         "cost": "≥9 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Усилитель сигнала",
-        "image": "https://i.imgur.com/nMsRFLe.png",
+        "image": "https://mixicons.zrefio.com/api/items/4363/32/",
         "quantity": "≤5",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ контроллер",
-        "image": "https://i.imgur.com/yM5hdGn.png",
+        "image": "https://mixicons.zrefio.com/api/items/4618/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ сундук",
-        "image": "https://i.imgur.com/zhWRrXA.png",
+        "image": "https://mixicons.zrefio.com/api/items/4623/32/",
         "quantity": "1",
         "cost": "≥5 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ привод",
-        "image": "https://i.imgur.com/EfEhNfb.png",
+        "image": "https://mixicons.zrefio.com/api/items/4619/32/",
         "quantity": "1",
         "cost": "≥2 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ интерфейс",
-        "image": "https://i.imgur.com/YcNIWhE.png",
+        "image": "https://mixicons.zrefio.com/api/items/4624/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ кодировщик шаблонов",
-        "image": "https://i.imgur.com/FkkH82c.png",
+        "image": "https://mixicons.zrefio.com/api/items/4620/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ корпус сборочного цеха",
-        "image": "https://i.imgur.com/Ejhan8d.png",
+        "image": "https://mixicons.zrefio.com/api/items/4638/32/",
         "quantity": "4",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ тепловыводящий элемент",
-        "image": "https://i.imgur.com/oV9TbTu.png",
+        "image": "https://mixicons.zrefio.com/api/items/4637/32/",
         "quantity": "≤3",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ сборочный процессор",
-        "image": "https://i.imgur.com/RJ4gkvE.png",
+        "image": "https://mixicons.zrefio.com/api/items/4636/32/",
         "quantity": "1",
         "cost": "≥3 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ поставщик шаблонов",
-        "image": "https://i.imgur.com/pJhfSMS.png",
+        "image": "https://mixicons.zrefio.com/api/items/4617/32/",
         "quantity": "1",
         "cost": "≥6 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ шаблон крафта",
-        "image": "https://i.imgur.com/yVXl8IL.png",
+        "image": "https://mixicons.zrefio.com/api/items/4350/32/",
         "quantity": "≤5",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ 1k хранилище",
-        "image": "https://i.imgur.com/pgvGGLR.png",
+        "image": "https://mixicons.zrefio.com/api/items/4337/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ 4k хранилище",
-        "image": "https://i.imgur.com/UQ4ltwd.png",
+        "image": "https://mixicons.zrefio.com/api/items/4339/32/",
         "quantity": "1",
         "cost": "≥8 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ 16k хранилище",
-        "image": "https://i.imgur.com/CVVYLuW.png",
+        "image": "https://mixicons.zrefio.com/api/items/4338/32/",
         "quantity": "1",
         "cost": "≥16 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ 64k хранилище",
-        "image": "https://i.imgur.com/k7Eux81.png",
+        "image": "https://mixicons.zrefio.com/api/items/4339/32/",
         "quantity": "1",
         "cost": "≥32 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "МЭ 512k Хранилище материи",
-        "image": "https://i.imgur.com/zKGGBko.png",
+        "image": "https://mixicons.zrefio.com/api/items/4343/32/",
         "quantity": "1",
         "cost": "≥15 уран. блоков",
         "costImage": "https://i.imgur.com/w7KhpUV.png"

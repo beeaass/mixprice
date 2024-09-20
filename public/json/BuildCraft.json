@@ -5,38 +5,38 @@
       "items": [
         {
           "name": "Редстоун - двигатель",
-          "image": "https://i.imgur.com/fHQVjkD.png",
+          "image": "https://mixicons.zrefio.com/api/items/3283/32/",
           "quantity": "≤ 19",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Помпа",
-          "image": "https://i.imgur.com/Rv9Nr1r.png",
+          "image": "https://mixicons.zrefio.com/api/items/3286/32/",
           "quantity": "≤ 3",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Капсула с нефтью",
-          "image": "https://i.imgur.com/zYcoNux.png",
+          "image": "https://mixicons.zrefio.com/api/items/2662/32/",
           "quantity": "≤ 16",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Капсула с топливом",
-          "image": "https://i.imgur.com/jNgIhW1.png",
+          "image": "https://mixicons.zrefio.com/api/items/2663/32/",
           "quantity": "≤ 16",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Капсула с любым др. топливом",
-          "image": "https://i.imgur.com/pR7bPKe.png",
+          "image": "https://mixicons.zrefio.com/api/items/2660/32/",
           "quantity": "≤ 16",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         }
       ]
     }

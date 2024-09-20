@@ -5,185 +5,185 @@
       "items": [
         {
           "name": "Иридий",
-          "image": "https://i.imgur.com/Wo4cBEi.png",
+          "image": "https://mixicons.zrefio.com/api/items/3800/32/",
           "quantity": "≤ 9",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Материя",
-          "image": "https://i.imgur.com/Ij81dlo.png",
+          "image": "https://mixicons.zrefio.com/api/items/3883/32/",
           "quantity": "≤ 64",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Резина",
-          "image": "https://i.imgur.com/k42AmrL.png",
+          "image": "https://mixicons.zrefio.com/api/items/3914/32/",
           "quantity": "≤ 16 - 32",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Изумрудная руда",
-          "image": "https://i.imgur.com/jgJE7QN.png",
+          "image": "https://mixicons.zrefio.com/api/items/2626/32/",
           "quantity": "1",
           "cost": "≤ 64 материи",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Алмазная руда",
-          "image": "https://i.imgur.com/u4Odckw.png",
+          "image": "https://mixicons.zrefio.com/api/items/4576/32/",
           "quantity": "1",
           "cost": "≤ 32 материи",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Редстоун руда",
-          "image": "https://i.imgur.com/1j2sy9i.png",
+          "image": "https://mixicons.zrefio.com/api/items/4595/32/",
           "quantity": "1",
           "cost": "≤ 21 материя",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Лазуритовая руда",
-          "image": "https://i.imgur.com/pN0zHxO.png",
+          "image": "https://mixicons.zrefio.com/api/items/3545/32/",
           "quantity": "1",
           "cost": "≤ 21 материя",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Угольная руда",
-          "image": "https://i.imgur.com/seLBwKN.png",
+          "image": "https://mixicons.zrefio.com/api/items/3310/32/",
           "quantity": "1",
           "cost": "≤ 13 материи",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Кварцевая руда",
-          "image": "https://i.imgur.com/ogTbgqx.png",
+          "image": "https://mixicons.zrefio.com/api/items/3301/32/",
           "quantity": "1",
           "cost": "≤ 8 материи",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Крепкая кварцевая руда",
-          "image": "https://i.imgur.com/j0yPkWg.png",
+          "image": "https://mixicons.zrefio.com/api/items/4641/32/",
           "quantity": "1",
           "cost": "≤ 4 материи",
-          "costImage": "https://i.imgur.com/Ij81dlo.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3883/32/"
         },
         {
           "name": "Бронзовый слиток",
-          "image": "https://i.imgur.com/OQNoooT.png",
+          "image": "https://mixicons.zrefio.com/api/items/4526/32/",
           "quantity": "≤ 32",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Медный слиток",
-          "image": "https://i.imgur.com/pS7CDp6.png",
+          "image": "https://mixicons.zrefio.com/api/items/3953/32/",
           "quantity": "≤ 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Оловянный слиток",
-          "image": "https://i.imgur.com/PHnlhlw.png",
+          "image": "https://mixicons.zrefio.com/api/items/3952/32/",
           "quantity": "≤ 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Железный слиток",
-          "image": "https://i.imgur.com/ZXbPzm8.png",
+          "image": "https://mixicons.zrefio.com/api/items/3631/32/",
           "quantity": "≤ 48",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Золотой слиток",
-          "image": "https://i.imgur.com/eP5ZulQ.png",
+          "image": "https://mixicons.zrefio.com/api/items/3632/32/",
           "quantity": "≤ 48",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Кварц",
-          "image": "https://i.imgur.com/5UsrSyR.png",
+          "image": "https://mixicons.zrefio.com/api/items/4315/32/",
           "quantity": "≤ 48",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Светящаяся пыль",
-          "image": "https://i.imgur.com/tKrAasj.png",
+          "image": "https://mixicons.zrefio.com/api/items/4137/32/",
           "quantity": "≤ 48 - 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Уголь",
-          "image": "https://i.imgur.com/iwbqI1s.png",
+          "image": "https://mixicons.zrefio.com/api/items/3628/32/",
           "quantity": "≤ 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Лазурит",
-          "image": "https://i.imgur.com/VrL0Okt.png",
+          "image": "https://mixicons.zrefio.com/api/items/4150/32/",
           "quantity": "≤ 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Редстоун пыль",
-          "image": "https://i.imgur.com/xhYYfPK.png",
+          "image": "https://mixicons.zrefio.com/api/items/4119/32/",
           "quantity": "≤ 64",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Изумруд",
-          "image": "https://i.imgur.com/kTB1wrp.png",
+          "image": "https://mixicons.zrefio.com/api/items/4289/32/",
           "quantity": "≤ 3",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Алмаз",
-          "image": "https://i.imgur.com/mNiqsYJ.png",
+          "image": "https://mixicons.zrefio.com/api/items/3630/32/",
           "quantity": "≤ 7",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Золотая руда",
-          "image": "https://i.imgur.com/8KhDQDS.png",
+          "image": "https://mixicons.zrefio.com/api/items/3274/32/",
           "quantity": "≤ 25",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Железная руда",
-          "image": "https://i.imgur.com/3jAIhLq.png",
+          "image": "https://mixicons.zrefio.com/api/items/3309/32/",
           "quantity": "≤ 25",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Оловянная руда",
-          "image": "https://i.imgur.com/QuUX5ff.png",
+          "image": "https://mixicons.zrefio.com/api/items/3599/32/",
           "quantity": "≤ 48",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
           "name": "Медная руда",
-          "image": "https://i.imgur.com/SM8HthB.png",
+          "image": "https://mixicons.zrefio.com/api/items/3600/32/",
           "quantity": "≤ 48",
           "cost": "1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         }
       ]
     }

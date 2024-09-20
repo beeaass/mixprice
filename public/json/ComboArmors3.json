@@ -1,238 +1,84 @@
 {
     "section": {
       "id": "ComboArmors",
-      "title": "Броня / Ранцы / Инструменты",
+      "title": "ComboArmors | Модули",
       "items": [
         {
-          "name": "Нанно-кираса с бат-паком",
-          "image": "https://i.imgur.com/zPbfz7g.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "name": "Модуль улучшения",
+          "image": "https://mixicons.zrefio.com/api/items/4044/32/",
+          "quantity": "≤ 2",
+          "cost": "≥ 1 уран",
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "Нано-кираса с мультиранцем",
-          "image": "https://i.imgur.com/UKN2cgL.png",
-          "quantity": "1",
-          "cost": "≥ 3 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Нано-кираса с электрическим реактивным ранцем",
-          "image": "https://i.imgur.com/p5R21v1.png",
-          "quantity": "1",
-          "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Нано-кираса с электрическим реактивным ранцем и мультиранцем",
-          "image": "https://i.imgur.com/B7axV3W.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Квантовая кираса с бат-паком",
-          "image": "https://i.imgur.com/QUgGlZQ.png",
-          "quantity": "1",
-          "cost": "≥ 6 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Квантовая кираса с мультиранцем",
-          "image": "https://i.imgur.com/yabUmVc.png",
-          "quantity": "1",
-          "cost": "≥ 7 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Квантовая кираса с электрическим реактивным ранцем",
-          "image": "https://i.imgur.com/EOLVFrz.png",
-          "quantity": "1",
-          "cost": "≥ 8 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Квантовая кираса с электрическим реактивным ранцем и мультиранцем",
-          "image": "https://i.imgur.com/VLItJTM.png",
-          "quantity": "1",
-          "cost": "≥ 10 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный нано-шлем",
-          "image": "https://i.imgur.com/mE1Jt1R.png",
+          "name": "СП-модуль",
+          "image": "https://mixicons.zrefio.com/api/items/4047/32/",
           "quantity": "1",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "Улучшенная нано-кираса",
-          "image": "https://i.imgur.com/UqXj6Gg.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенные нано-поножи",
-          "image": "https://i.imgur.com/IbjJ2uV.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенные нано-ботинки",
-          "image": "https://i.imgur.com/y2CY53O.png",
-          "quantity": "1",
-          "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный квантовый шлем",
-          "image": "https://i.imgur.com/1oZxPfU.png",
+          "name": "MV Solar Production Upgrade Module",
+          "image": "https://mixicons.zrefio.com/api/items/4059/32/",
           "quantity": "1",
           "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "Улучшенная квантовая кираса",
-          "image": "https://i.imgur.com/jciNsXS.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенные квантовые поножи",
-          "image": "https://i.imgur.com/ZRrTkKQ.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенные квантовые ботинки",
-          "image": "https://i.imgur.com/AvHxRCt.png",
-          "quantity": "1",
-          "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный электрический реактивный ранец",
-          "image": "https://i.imgur.com/OxCOUZ4.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный бат-пак",
-          "image": "https://i.imgur.com/NxIsxfT.png",
-          "quantity": "1",
-          "cost": "≥ 3 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный мультиранец",
-          "image": "https://i.imgur.com/9s3vAO8.png",
-          "quantity": "1",
-          "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Продвинутый электрический реактивный ранец",
-          "image": "https://i.imgur.com/nRN3ih6.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Мульти-электро реактивный ранец",
-          "image": "https://i.imgur.com/WfPQI7m.png",
-          "quantity": "1",
-          "cost": "≥ 6 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "Улучшенный СП - шлем",
-          "image": "https://i.imgur.com/gqVt5Nh.png",
-          "quantity": "1",
-          "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - нановолоконный шлем",
-          "image": "https://i.imgur.com/KCF72NM.png",
-          "quantity": "1",
-          "cost": "≥ 3 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - нановолоконный шлем LV",
-          "image": "https://i.imgur.com/KCF72NM.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - нановолоконный шлем MV",
-          "image": "https://i.imgur.com/KCF72NM.png",
+          "name": "LV Solar Production Upgrade Module",
+          "image": "https://mixicons.zrefio.com/api/items/4058/32/",
           "quantity": "1",
           "cost": "≥ 17 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "СП - нановолоконный шлем HV",
-          "image": "https://i.imgur.com/KCF72NM.png",
+          "name": "HV Solar Production Upgrade Module",
+          "image": "https://mixicons.zrefio.com/api/items/4060/32/",
           "quantity": "1",
           "cost": "≥ 11 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
         },
         {
-          "name": "СП - квантовый шлем",
-          "image": "https://i.imgur.com/fDxZBMA.png",
-          "quantity": "1",
-          "cost": "≥ 5 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - квантовый шлем LV",
-          "image": "https://i.imgur.com/fDxZBMA.png",
-          "quantity": "1",
-          "cost": "≥ 9 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - квантовый шлем MV",
-          "image": "https://i.imgur.com/fDxZBMA.png",
-          "quantity": "1",
-          "cost": "≥ 21 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
-        },
-        {
-          "name": "СП - квантовый шлем HV",
-          "image": "https://i.imgur.com/fDxZBMA.png",
-          "quantity": "1",
-          "cost": "≥ 12 уран. блоков",
-          "costImage": "https://i.imgur.com/w7KhpUV.png"
-        },
-        {
-          "name": "Улучшенные электростатические ботинки",
-          "image": "https://i.imgur.com/X4ozwjO.png",
+          "name": "Модуль 'Продвинутый хранитель энергии'",
+          "image": "https://mixicons.zrefio.com/api/items/4053/32/",
           "quantity": "1",
           "cost": "≥ 1 уран",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "Электростатические нановолоконные ботинки",
-          "image": "https://i.imgur.com/Yom5Nzg.png",
+          "name": "Модуль 'Мульти-электро хранитель энергии'",
+          "image": "https://mixicons.zrefio.com/api/items/4054/32/",
           "quantity": "1",
           "cost": "≥ 2 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
-          "name": "Электростатические квантовые ботинки",
-          "image": "https://i.imgur.com/WlenKUH.png",
+          "name": "Модуль 'Турбина для полёта'",
+          "image": "https://mixicons.zrefio.com/api/items/4046/32/",
           "quantity": "1",
-          "cost": "≥ 4 урана",
-          "costImage": "https://i.imgur.com/nZU2JeH.png"
+          "cost": "≥ 3 урана",
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
+        },
+        {
+          "name": "Модуль 'Временной'",
+          "image": "https://mixicons.zrefio.com/api/items/4049/32/",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
+        },
+        {
+          "name": "Модуль 'Статическое производство'",
+          "image": "https://mixicons.zrefio.com/api/items/4048/32/",
+          "quantity": "1",
+          "cost": "≥ 1 уран",
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
+        },
+        {
+          "name": "Модуль 'Разряд'",
+          "image": "https://mixicons.zrefio.com/api/items/4050/32/",
+          "quantity": "1",
+          "cost": "≥ 2 урана",
+          "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         }
       ]
     }

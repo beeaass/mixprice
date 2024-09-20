@@ -5,164 +5,164 @@
     "items": [
       {
         "name": "Sunnarium part",
-        "image": "https://i.imgur.com/daBtlkM.png",
+        "image": "https://mixicons.zrefio.com/api/items/4081/32/",
         "quantity": "≤32",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Sunnarium",
-        "image": "https://i.imgur.com/lBCFiD9.png",
+        "image": "https://mixicons.zrefio.com/api/items/4064/32/",
         "quantity": "≤9",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Sunnarium Alloy",
-        "image": "https://i.imgur.com/cXFKlRs.png",
+        "image": "https://mixicons.zrefio.com/api/items/4073/32/",
         "quantity": "1",
         "cost": "≥6 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Iridium Iron Plate",
-        "image": "https://i.imgur.com/7elLvi7.png",
+        "image": "https://mixicons.zrefio.com/api/items/4078/32/",
         "quantity": "≤4",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Reinforced Iridium Iron Plate",
-        "image": "https://i.imgur.com/Sdcqd1B.png",
+        "image": "https://mixicons.zrefio.com/api/items/4079/32/",
         "quantity": "1",
         "cost": "≥8 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Irradiant Reinforced Plate",
-        "image": "https://i.imgur.com/xy6ZJPe.png",
+        "image": "https://mixicons.zrefio.com/api/items/4080/32/",
         "quantity": "1",
         "cost": "≥8 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Слиток титана",
-        "image": "https://i.imgur.com/NwMJykE.png",
+        "image": "https://mixicons.zrefio.com/api/items/4066/32/",
         "quantity": "1",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Titanium Plate",
-        "image": "https://i.imgur.com/N3EppDj.png",
+        "image": "https://mixicons.zrefio.com/api/items/4067/32/",
         "quantity": "1",
         "cost": "≥4 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Titanium Lense",
-        "image": "https://i.imgur.com/0nSDsfJ.png",
+        "image": "https://mixicons.zrefio.com/api/items/4068/32/",
         "quantity": "1",
         "cost": "≥6 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Photon Buffer",
-        "image": "https://i.imgur.com/EQqZAqx.png",
+        "image": "https://mixicons.zrefio.com/api/items/4071/32/",
         "quantity": "1",
         "cost": "≥20 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Quantum Processor Cooling",
-        "image": "https://i.imgur.com/2B7Pr24.png",
+        "image": "https://mixicons.zrefio.com/api/items/4070/32/",
         "quantity": "1",
         "cost": "≥24 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Quantum Processor",
-        "image": "https://i.imgur.com/tHWQvHu.png",
+        "image": "https://mixicons.zrefio.com/api/items/4069/32/",
         "quantity": "1",
         "cost": "≥24 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Moonlight Filter",
-        "image": "https://i.imgur.com/ipuPD8m.png",
+        "image": "https://mixicons.zrefio.com/api/items/4072/32/",
         "quantity": "1",
         "cost": "≥8 уран. блоков",
-        "costImage": "https://i.imgur.com/w7KhpUV.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       },
       {
         "name": "Solar Panel",
-        "image": "https://i.imgur.com/gsHl2G3.png",
+        "image": "https://mixicons.zrefio.com/api/items/3595/32/",
         "quantity": "1",
         "cost": "≥1 уран",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Advanced Solar Panel",
-        "image": "https://i.imgur.com/0ApatSb.png",
+        "image": "https://mixicons.zrefio.com/api/items/3506/32/",
         "quantity": "1",
         "cost": "≥5 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Hybrid Solar Panel",
-        "image": "https://i.imgur.com/odFUO8M.png",
+        "image": "https://mixicons.zrefio.com/api/items/3507/32/",
         "quantity": "1",
         "cost": "≥12 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Ultimate Solar Panel",
-        "image": "https://i.imgur.com/9jNvzIk.png",
+        "image": "https://mixicons.zrefio.com/api/items/3508/32/",
         "quantity": "1",
         "cost": "≥9 уран. блоков",
-        "costImage": "https://i.imgur.com/w7KhpUV.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       },
       {
         "name": "Quantum Solar Panel",
-        "image": "https://i.imgur.com/QPKLXh1.png",
+        "image": "https://mixicons.zrefio.com/api/items/3510/32/",
         "quantity": "1",
         "cost": "≥8 конц. уран. блоков",
-        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3555/32/"
       },
       {
         "name": "Solaris Titan Panel",
-        "image": "https://i.imgur.com/L8cyWHV.png",
+        "image": "https://mixicons.zrefio.com/api/items/3512/32/",
         "quantity": "1",
         "cost": "≥32 конц. уран. блоков",
-        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3555/32/"
       },
       {
         "name": "Eclipse Solar Panel",
-        "image": "https://i.imgur.com/VTjYtgd.png",
+        "image": "https://mixicons.zrefio.com/api/items/3513/32/",
         "quantity": "1",
         "cost": "≥128 конц. уран. блоков",
-        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3555/32/"
       },
       {
         "name": "Advanced Solar Helmet",
-        "image": "https://i.imgur.com/9YyGEhr.png",
+        "image": "https://mixicons.zrefio.com/api/items/4082/32/",
         "quantity": "1",
         "cost": "≥6 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Hybrid Solar Helmet",
-        "image": "https://i.imgur.com/fUzLdkl.png",
+        "image": "https://mixicons.zrefio.com/api/items/4084/32/",
         "quantity": "1",
         "cost": "≥18 урана",
-        "costImage": "https://i.imgur.com/nZU2JeH.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
         "name": "Ultimate Solar Helmet",
-        "image": "https://i.imgur.com/jZsSmWP.png",
+        "image": "https://mixicons.zrefio.com/api/items/4086/32/",
         "quantity": "1",
         "cost": "≥10 уран. блоков",
-        "costImage": "https://i.imgur.com/w7KhpUV.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       }
     ]
   }
