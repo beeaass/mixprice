@@ -4,6 +4,7 @@
     "title": "Applied Energistics",
     "items": [
       {
+        "id": "902",
         "name": "Крепкая кварцевая руда",
         "image": "https://mixicons.zrefio.com/api/items/4641/32/",
         "quantity": "1",
@@ -11,6 +12,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/4364/32/"
       },
       {
+        "id": "902",
         "name": "Крепкая кварцевая руда",
         "image": "https://mixicons.zrefio.com/api/items/4641/32/",
         "quantity": "2",
@@ -18,6 +20,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:6",
         "name": "Кристалл кварца",
         "image": "https://mixicons.zrefio.com/api/items/4364/32/",
         "quantity": "16",
@@ -25,6 +28,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:7",
         "name": "Кварцевая пыль",
         "image": "https://mixicons.zrefio.com/api/items/4365/32/",
         "quantity": "16",
@@ -32,6 +36,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362",
         "name": "Конвертирующая матрица",
         "image": "https://mixicons.zrefio.com/api/items/4344/32/",
         "quantity": "1",
@@ -39,6 +44,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:4",
         "name": "Беспроводной приёмник",
         "image": "https://mixicons.zrefio.com/api/items/4362/32/",
         "quantity": "1",
@@ -46,6 +52,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:20",
         "name": "Незаконченный стандартный процессор",
         "image": "https://mixicons.zrefio.com/api/items/4355/32/",
         "quantity": "2",
@@ -53,6 +60,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:18",
         "name": "МЭ стандартный процессор",
         "image": "https://mixicons.zrefio.com/api/items/4352/32/",
         "quantity": "2",
@@ -60,6 +68,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:21",
         "name": "Незаконченный улучшенный процессор",
         "image": "https://mixicons.zrefio.com/api/items/4356/32/",
         "quantity": "1",
@@ -67,6 +76,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:19",
         "name": "МЭ улучшенный процессор",
         "image": "https://mixicons.zrefio.com/api/items/4353/32/",
         "quantity": "1",
@@ -74,6 +84,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:14",
         "name": "МЭ кабель",
         "image": "https://mixicons.zrefio.com/api/items/4631/32/",
         "quantity": "8",
@@ -81,6 +92,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:1",
         "name": "МЭ точная импортирующая шина",
         "image": "https://mixicons.zrefio.com/api/items/4633/32/",
         "quantity": "1",
@@ -88,6 +100,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901",
         "name": "МЭ точная экспортирующая шина",
         "image": "https://mixicons.zrefio.com/api/items/4626/32/",
         "quantity": "1",
@@ -95,6 +108,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "903:1",
         "name": "МЭ интерактивная шина импорта",
         "image": "https://mixicons.zrefio.com/api/items/4644/32/",
         "quantity": "1",
@@ -102,6 +116,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "903",
         "name": "МЭ интерактивная шина экспорта",
         "image": "https://mixicons.zrefio.com/api/items/4643/32/",
         "quantity": "1",
@@ -109,6 +124,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:9",
         "name": "МЭ шина взаимодействия",
         "image": "https://mixicons.zrefio.com/api/items/4640/32/",
         "quantity": "1",
@@ -116,6 +132,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:15",
         "name": "МЭ интерактивная шина взаимодействия",
         "image": "https://mixicons.zrefio.com/api/items/4632/32/",
         "quantity": "1",
@@ -123,6 +140,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:4",
         "name": "МЭ излучатель сигнала",
         "image": "https://mixicons.zrefio.com/api/items/4635/32/",
         "quantity": "1",
@@ -130,6 +148,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:12",
         "name": "МЭ монитор",
         "image": "https://mixicons.zrefio.com/api/items/4629/32/",
         "quantity": "1",
@@ -137,6 +156,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:11",
         "name": "МЭ сборочный монитор",
         "image": "https://mixicons.zrefio.com/api/items/4628/32/",
         "quantity": "1",
@@ -144,6 +164,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:6",
         "name": "МЭ терминал доступа",
         "image": "https://mixicons.zrefio.com/api/items/4622/32/",
         "quantity": "1",
@@ -151,6 +172,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:5",
         "name": "МЭ точка беспроводного доступа",
         "image": "https://mixicons.zrefio.com/api/items/4621/32/",
         "quantity": "1",
@@ -158,6 +180,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361:5",
         "name": "МЭ беспроводная точка доступа",
         "image": "https://mixicons.zrefio.com/api/items/4341/32/",
         "quantity": "1",
@@ -165,6 +188,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:5",
         "name": "Усилитель сигнала",
         "image": "https://mixicons.zrefio.com/api/items/4363/32/",
         "quantity": "≤5",
@@ -172,6 +196,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:2",
         "name": "МЭ контроллер",
         "image": "https://mixicons.zrefio.com/api/items/4618/32/",
         "quantity": "1",
@@ -179,6 +204,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:7",
         "name": "МЭ сундук",
         "image": "https://mixicons.zrefio.com/api/items/4623/32/",
         "quantity": "1",
@@ -186,6 +212,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:3",
         "name": "МЭ привод",
         "image": "https://mixicons.zrefio.com/api/items/4619/32/",
         "quantity": "1",
@@ -193,6 +220,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:8",
         "name": "МЭ интерфейс",
         "image": "https://mixicons.zrefio.com/api/items/4624/32/",
         "quantity": "1",
@@ -200,6 +228,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:4",
         "name": "МЭ кодировщик шаблонов",
         "image": "https://mixicons.zrefio.com/api/items/4620/32/",
         "quantity": "1",
@@ -207,6 +236,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:7",
         "name": "МЭ корпус сборочного цеха",
         "image": "https://mixicons.zrefio.com/api/items/4638/32/",
         "quantity": "4",
@@ -214,6 +244,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:6",
         "name": "МЭ тепловыводящий элемент",
         "image": "https://mixicons.zrefio.com/api/items/4637/32/",
         "quantity": "≤3",
@@ -221,6 +252,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "901:5",
         "name": "МЭ сборочный процессор",
         "image": "https://mixicons.zrefio.com/api/items/4636/32/",
         "quantity": "1",
@@ -228,6 +260,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "900:1",
         "name": "МЭ поставщик шаблонов",
         "image": "https://mixicons.zrefio.com/api/items/4617/32/",
         "quantity": "1",
@@ -235,6 +268,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4362:16",
         "name": "МЭ шаблон крафта",
         "image": "https://mixicons.zrefio.com/api/items/4350/32/",
         "quantity": "≤5",
@@ -242,6 +276,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361",
         "name": "МЭ 1k хранилище",
         "image": "https://mixicons.zrefio.com/api/items/4337/32/",
         "quantity": "1",
@@ -249,6 +284,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361:7",
         "name": "МЭ 4k хранилище",
         "image": "https://mixicons.zrefio.com/api/items/4339/32/",
         "quantity": "1",
@@ -256,6 +292,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361:1",
         "name": "МЭ 16k хранилище",
         "image": "https://mixicons.zrefio.com/api/items/4338/32/",
         "quantity": "1",
@@ -263,6 +300,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361:2",
         "name": "МЭ 64k хранилище",
         "image": "https://mixicons.zrefio.com/api/items/4339/32/",
         "quantity": "1",
@@ -270,11 +308,12 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id": "4361:8",
         "name": "МЭ 512k Хранилище материи",
         "image": "https://mixicons.zrefio.com/api/items/4343/32/",
         "quantity": "1",
         "cost": "≥15 уран. блоков",
-        "costImage": "https://i.imgur.com/w7KhpUV.png"
+        "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       }
     ]
   }

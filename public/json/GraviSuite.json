@@ -4,6 +4,7 @@
     "title": "Gravitation Suite",
     "items": [
       {
+        "id":"30473",
         "name": "Гравитационный нагрудник",
         "image": "https://mixicons.zrefio.com/api/items/3964/32/",
         "quantity": "1",
@@ -11,6 +12,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30474",
         "name": "Совершенный мультиранец",
         "image": "https://mixicons.zrefio.com/api/items/3966/32/",
         "quantity": "1",
@@ -18,6 +20,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30475:1",
         "name": "Сверхпроводник",
         "image": "https://mixicons.zrefio.com/api/items/3969/32/",
         "quantity": "1",
@@ -25,6 +28,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30477",
         "name": "Разрушитель/Ваджра",
         "image": "https://mixicons.zrefio.com/api/items/3975/32/",
         "quantity": "1",
@@ -32,6 +36,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30478",
         "name": "Продвинутый алмазный бур",
         "image": "https://mixicons.zrefio.com/api/items/3977/32/",
         "quantity": "1",
@@ -39,6 +44,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30479",
         "name": "Продвинутая электропила",
         "image": "https://mixicons.zrefio.com/api/items/3979/32/",
         "quantity": "1",
@@ -46,13 +52,15 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
-        "name": "Улучшеный мультиранец",
+        "id":"30480",
+        "name": "Улучшенный мультиранец",
         "image": "https://mixicons.zrefio.com/api/items/3981/32/",
         "quantity": "1",
         "cost": "≥3 урана",
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30481",
         "name": "Улучшенный реактивный ранец",
         "image": "https://mixicons.zrefio.com/api/items/3983/32/",
         "quantity": "1",
@@ -60,6 +68,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30482",
         "name": "Грави - инструмент",
         "image": "https://mixicons.zrefio.com/api/items/3985/32/",
         "quantity": "1",
@@ -67,6 +76,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30483",
         "name": "Улучшенный нано-нагрудник",
         "image": "https://mixicons.zrefio.com/api/items/3987/32/",
         "quantity": "1",

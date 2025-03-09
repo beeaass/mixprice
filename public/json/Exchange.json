@@ -1,0 +1,89 @@
+{
+    "section": {
+      "id": "Exchange",
+      "title": "Обмен",
+      "items": [
+        {
+          "id":"129",
+          "name": "Изумрудная руда",
+          "image": "https://mixicons.zrefio.com/api/items/2626/32/",
+          "quantity": "64",
+          "cost": "1 СВН",
+          "costImage": "https://mixicons.zrefio.com/api/items/3653/32/"
+        },
+        {
+          "id":"56",
+          "name": "Алмазная руда",
+          "image": "https://mixicons.zrefio.com/api/items/4576/32/",
+          "quantity": "64",
+          "cost": "2 ВН",
+          "costImage": "https://mixicons.zrefio.com/api/items/3652/32/"
+        },
+        {
+          "id":"902",
+          "name": "Крепкая кварцевая руда",
+          "image": "https://mixicons.zrefio.com/api/items/4641/32/",
+          "quantity": "64",
+          "cost": "1 ВН",
+          "costImage": "https://mixicons.zrefio.com/api/items/3652/32/"
+        },
+        {
+          "id":"153",
+          "name": "Кварцевая руда",
+          "image": "https://mixicons.zrefio.com/api/items/3301/32/",
+          "quantity": "64",
+          "cost": "3 СН",
+          "costImage": "https://mixicons.zrefio.com/api/items/3651/32/"
+        },
+        {
+          "id":"129",
+          "name": "Изумрудная руда",
+          "image": "https://mixicons.zrefio.com/api/items/2626/32/",
+          "quantity": "16",
+          "cost": "1 Ultimate Solar Panel",
+          "costImage": "https://mixicons.zrefio.com/api/items/3508/32/"
+        },
+        {
+          "id":"56",
+          "name": "Алмазная руда",
+          "image": "https://mixicons.zrefio.com/api/items/4576/32/",
+          "quantity": "32",
+          "cost": "1 Ultimate Solar Panel",
+          "costImage": "https://mixicons.zrefio.com/api/items/3508/32/"
+        },
+        {
+          "id":"902",
+          "name": "Крепкая кварцевая руда",
+          "image": "https://mixicons.zrefio.com/api/items/4641/32/",
+          "quantity": "64",
+          "cost": "1 Ultimate Solar Panel",
+          "costImage": "https://mixicons.zrefio.com/api/items/3508/32/"
+        },
+        {
+          "id":"153",
+          "name": "Кварцевая руда",
+          "image": "https://mixicons.zrefio.com/api/items/3301/32/",
+          "quantity": "64",
+          "cost": "3 Hybrid Solar Panel",
+          "costImage": "https://mixicons.zrefio.com/api/items/3507/32/"
+        },
+        {
+          "id":"194:2",
+          "name": "Ultimate Solar Panel",
+          "image": "https://mixicons.zrefio.com/api/items/3508/32/",
+          "quantity": "4",
+          "cost": "1 СВН",
+          "costImage": "https://mixicons.zrefio.com/api/items/3653/32/"
+        },
+        {
+          "id":"2790:4",
+          "name": "Ветряк сверхвысокого напряжения (СВН)",
+          "image": "https://mixicons.zrefio.com/api/items/3301/32/",
+          "quantity": "1",
+          "cost": "4 Ultimate Solar Panel",
+          "costImage": "https://mixicons.zrefio.com/api/items/3508/32/"
+        }
+      ]
+    }
+  }
+  

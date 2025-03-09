@@ -4,6 +4,7 @@
     "title": "Industrial Craft",
     "items": [
       {
+        "id":"223",
         "name": "Телепортер",
         "image": "https://mixicons.zrefio.com/api/items/3548/32/",
         "quantity": "1",
@@ -11,6 +12,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"223:1",
         "name": "Катушка теслы",
         "image": "https://mixicons.zrefio.com/api/items/3549/32/",
         "quantity": "1",
@@ -18,6 +20,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"225",
         "name": "Сейф",
         "image": "https://mixicons.zrefio.com/api/items/3560/32/",
         "quantity": "1",
@@ -25,6 +28,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"223:2",
         "name": "Автосадовник",
         "image": "https://mixicons.zrefio.com/api/items/3550/32/",
         "quantity": "1",
@@ -32,6 +36,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227",
         "name": "Бат-Бокс",
         "image": "https://mixicons.zrefio.com/api/items/3571/32/",
         "quantity": "≤3",
@@ -39,6 +44,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227:3",
         "name": "Трансформатор НН",
         "image": "https://mixicons.zrefio.com/api/items/3574/32/",
         "quantity": "≤5",
@@ -46,6 +52,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227:4",
         "name": "Трансформатор СН",
         "image": "https://mixicons.zrefio.com/api/items/3575/32/",
         "quantity": "≤3",
@@ -53,6 +60,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227:5",
         "name": "Трансформатор ВН",
         "image": "https://mixicons.zrefio.com/api/items/3576/32/",
         "quantity": "1",
@@ -60,6 +68,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227:2",
         "name": "ЭХО/МФСУ",
         "image": "https://mixicons.zrefio.com/api/items/3573/32/",
         "quantity": "1",
@@ -67,6 +76,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"227:1",
         "name": "МФЭ",
         "image": "https://mixicons.zrefio.com/api/items/3572/32/",
         "quantity": "1",
@@ -74,6 +84,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:12",
         "name": "Улучшенный механизм",
         "image": "https://mixicons.zrefio.com/api/items/3607/32/",
         "quantity": "≤2",
@@ -81,6 +92,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"246",
         "name": "Генератор",
         "image": "https://mixicons.zrefio.com/api/items/3592/32/",
         "quantity": "≤2",
@@ -88,6 +100,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"246:1",
         "name": "Геотермальный генератор",
         "image": "https://mixicons.zrefio.com/api/items/3593/32/",
         "quantity": "≤2",
@@ -95,6 +108,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"246:2",
         "name": "Водяная мельница",
         "image": "https://mixicons.zrefio.com/api/items/3594/32/",
         "quantity": "≤2",
@@ -102,6 +116,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"246:4",
         "name": "Ветряк",
         "image": "https://mixicons.zrefio.com/api/items/3596/32/",
         "quantity": "≤2",
@@ -109,6 +124,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"233",
         "name": "Блок ректора",
         "image": "https://mixicons.zrefio.com/api/items/3581/32/",
         "quantity": "≤3",
@@ -116,6 +132,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"246:5",
         "name": "Ядерный реактор",
         "image": "https://mixicons.zrefio.com/api/items/3597/32/",
         "quantity": "1",
@@ -123,6 +140,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"225:1",
         "name": "Торговый автомат",
         "image": "https://mixicons.zrefio.com/api/items/3561/32/",
         "quantity": "≤4",
@@ -130,6 +148,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:3",
         "name": "Дробитель",
         "image": "https://mixicons.zrefio.com/api/items/3613/32/",
         "quantity": "≤2",
@@ -137,6 +156,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:2",
         "name": "Электропечь",
         "image": "https://mixicons.zrefio.com/api/items/3612/32/",
         "quantity": "≤2",
@@ -144,6 +164,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:5",
         "name": "Компрессор",
         "image": "https://mixicons.zrefio.com/api/items/3615/32/",
         "quantity": "≤2",
@@ -151,6 +172,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:4",
         "name": "Экстрактор",
         "image": "https://mixicons.zrefio.com/api/items/3614/32/",
         "quantity": "≤2",
@@ -158,6 +180,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:11",
         "name": "Утилизатор",
         "image": "https://mixicons.zrefio.com/api/items/3606/32/",
         "quantity": "≤2",
@@ -165,6 +188,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:13",
         "name": "Индукционная печь",
         "image": "https://mixicons.zrefio.com/api/items/3608/32/",
         "quantity": "≤1",
@@ -172,6 +196,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"250:14",
         "name": "Генератор материи",
         "image": "https://mixicons.zrefio.com/api/items/3609/32/",
         "quantity": "1",
@@ -179,6 +204,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30109",
         "name": "Хмель",
         "image": "https://mixicons.zrefio.com/api/items/3753/32/",
         "quantity": "≤2",
@@ -186,13 +212,15 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
-        "name": "Пиво бога",
+        "id":"30107",
+        "name": "Пиво бога/Zero",
         "image": "https://mixicons.zrefio.com/api/items/3751/32/",
         "quantity": "1",
         "cost": "≥16 урана",
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30114",
         "name": "Земляной нарост",
         "image": "https://mixicons.zrefio.com/api/items/3760/32/",
         "quantity": "≤4",
@@ -200,6 +228,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30127",
         "name": "Мультиранец",
         "image": "https://mixicons.zrefio.com/api/items/3798/32/",
         "quantity": "1",
@@ -207,6 +236,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30209",
         "name": "Электрический реактивный ранец",
         "image": "https://mixicons.zrefio.com/api/items/3906/32/",
         "quantity": "1",
@@ -214,6 +244,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30149",
         "name": "Нано-сабля",
         "image": "https://mixicons.zrefio.com/api/items/3822/32/",
         "quantity": "1",
@@ -221,6 +252,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30234",
         "name": "Алмазный бур",
         "image": "https://mixicons.zrefio.com/api/items/3935/32/",
         "quantity": "1",
@@ -228,6 +260,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30235",
         "name": "Шахтёрский бур",
         "image": "https://mixicons.zrefio.com/api/items/3937/32/",
         "quantity": "1",
@@ -235,6 +268,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30233",
         "name": "Электропила",
         "image": "https://mixicons.zrefio.com/api/items/3933/32/",
         "quantity": "1",
@@ -242,6 +276,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30140",
         "name": "Электроключ",
         "image": "https://mixicons.zrefio.com/api/items/3812/32/",
         "quantity": "1",
@@ -249,6 +284,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30124",
         "name": "Соковыжималка",
         "image": "https://mixicons.zrefio.com/api/items/3770/32/",
         "quantity": "1",
@@ -256,6 +292,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30119",
         "name": "Электрическая мотыга",
         "image": "https://mixicons.zrefio.com/api/items/3765/32/",
         "quantity": "1",
@@ -263,6 +300,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30240",
         "name": "Мультикристалл",
         "image": "https://mixicons.zrefio.com/api/items/3943/32/",
         "quantity": "1",
@@ -270,6 +308,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30241",
         "name": "Энергокристалл",
         "image": "https://mixicons.zrefio.com/api/items/3945/32/",
         "quantity": "1",
@@ -277,13 +316,15 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
-        "name": "Элекстросхема",
+        "id":"30191",
+        "name": "Электросхема",
         "image": "https://mixicons.zrefio.com/api/items/3886/32/",
         "quantity": "≤12",
         "cost": "≥1 уран",
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30190",
         "name": "Улучшенная электросхема",
         "image": "https://mixicons.zrefio.com/api/items/3885/32/",
         "quantity": "≤6",
@@ -291,6 +332,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30184:9",
         "name": "Стекловолокно",
         "image": "https://mixicons.zrefio.com/api/items/3879/32/",
         "quantity": "≤21",
@@ -298,6 +340,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30242",
         "name": "Аккумулятор",
         "image": "https://mixicons.zrefio.com/api/items/3942/32/",
         "quantity": "≤8",
@@ -305,6 +348,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30187",
         "name": "Композит",
         "image": "https://mixicons.zrefio.com/api/items/3882/32/",
         "quantity": "≤5",
@@ -312,6 +356,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30150",
         "name": "Углепластик",
         "image": "https://mixicons.zrefio.com/api/items/3824/32/",
         "quantity": "≤3",
@@ -319,6 +364,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30147",
         "name": "Иридиевая плата",
         "image": "https://mixicons.zrefio.com/api/items/3820/32/",
         "quantity": "≤1",
@@ -326,6 +372,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30125",
         "name": "Апгрейд ускорителя",
         "image": "https://mixicons.zrefio.com/api/items/3772/32/",
         "quantity": "≤2",
@@ -333,6 +380,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30125:1",
         "name": "Апгрейд трансформатора",
         "image": "https://mixicons.zrefio.com/api/items/3773/32/",
         "quantity": "≤2",
@@ -340,6 +388,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30125:2",
         "name": "Апгрейд энергохранителя",
         "image": "https://mixicons.zrefio.com/api/items/3774/32/",
         "quantity": "≤2",
@@ -347,6 +396,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30178",
         "name": "Нано-шлем",
         "image": "https://mixicons.zrefio.com/api/items/3859/32/",
         "quantity": "1",
@@ -354,6 +404,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30177",
         "name": "Нано-кираса",
         "image": "https://mixicons.zrefio.com/api/items/3857/32/",
         "quantity": "1",
@@ -361,6 +412,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30176",
         "name": "Нано-поножи",
         "image": "https://mixicons.zrefio.com/api/items/3855/32/",
         "quantity": "1",
@@ -368,6 +420,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30175",
         "name": "Нано-ботинки",
         "image": "https://mixicons.zrefio.com/api/items/3853/32/",
         "quantity": "1",
@@ -375,6 +428,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30174",
         "name": "Квантовый шлем",
         "image": "https://mixicons.zrefio.com/api/items/3851/32/",
         "quantity": "1",
@@ -382,6 +436,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30173",
         "name": "Квантовая кираса",
         "image": "https://mixicons.zrefio.com/api/items/3849/32/",
         "quantity": "1",
@@ -389,6 +444,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30172",
         "name": "Квантовые поножи",
         "image": "https://mixicons.zrefio.com/api/items/3847/32/",
         "quantity": "1",
@@ -396,6 +452,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30171",
         "name": "Квантовые ботинки",
         "image": "https://mixicons.zrefio.com/api/items/3845/32/",
         "quantity": "1",
@@ -403,6 +460,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"30078",
         "name": "Прибор ночного видения",
         "image": "https://mixicons.zrefio.com/api/items/3721/32/",
         "quantity": "1",

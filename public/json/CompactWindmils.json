@@ -4,6 +4,7 @@
     "title": "Compact Windmils",
     "items": [
       {
+        "id":"2790",
         "name": "Ветряк сверхнизкого напряжения (СНН)",
         "image": "https://mixicons.zrefio.com/api/items/3649/32/",
         "quantity": "1",
@@ -11,6 +12,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"2790:1",
         "name": "Ветряк низкого напряжения (НН)",
         "image": "https://mixicons.zrefio.com/api/items/3650/32/",
         "quantity": "1",
@@ -18,6 +20,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"2790:2",
         "name": "Ветряк среднего напряжения (СН)",
         "image": "https://mixicons.zrefio.com/api/items/3651/32/",
         "quantity": "1",
@@ -25,6 +28,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"2790:3",
         "name": "Ветряк высокого напряжения (ВН)",
         "image": "https://mixicons.zrefio.com/api/items/3652/32/",
         "quantity": "1",
@@ -32,6 +36,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       },
       {
+        "id":"2790:4",
         "name": "Ветряк сверхвысокого напряжения (СВН)",
         "image": "https://mixicons.zrefio.com/api/items/3653/32/",
         "quantity": "1",
@@ -39,6 +44,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3554/32/"
       },
       {
+        "id":"2790:5",
         "name": "Ветряк квантового напряжения (КН)",
         "image": "https://mixicons.zrefio.com/api/items/3654/32/",
         "quantity": "1",
@@ -46,6 +52,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3555/32/"
       },
       {
+        "id":"27903",
         "name": "Композитный ротор",
         "image": "https://mixicons.zrefio.com/api/items/3648/32/",
         "quantity": "1",
@@ -53,6 +60,7 @@
         "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
       },
       {
+        "id":"27902",
         "name": "Иридиевый ротор",
         "image": "https://mixicons.zrefio.com/api/items/3647/32/",
         "quantity": "1",

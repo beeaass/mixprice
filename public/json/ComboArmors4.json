@@ -4,6 +4,7 @@
       "title": "ComboArmors | Механизмы",
       "items": [
         {
+          "id":"4000",
           "name": "Сборщик брони",
           "image": "https://mixicons.zrefio.com/api/items/4308/32/",
           "quantity": "1",

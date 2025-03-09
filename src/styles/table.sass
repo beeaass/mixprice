@@ -34,6 +34,10 @@ thead th
   border-bottom: 1px solid var(--border-color)
   text-align: left
 
+/* Стили для заголовка столбца ID */
+thead th:nth-child(2)
+  width: 100px /* Ширина столбца ID */
+
 tbody
   color: var(--text-color)
 
@@ -51,6 +55,10 @@ tbody td
   text-align: left
   vertical-align: middle
   font-size: 14px
+
+tbody td:nth-child(2)
+  width: 100p
+  color: var(--text-secondary-color)
 
 td img
   vertical-align: middle

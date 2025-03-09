@@ -4,6 +4,7 @@
       "title": "BuildCraft",
       "items": [
         {
+          "id":"1510",
           "name": "Редстоун - двигатель",
           "image": "https://mixicons.zrefio.com/api/items/3283/32/",
           "quantity": "≤ 19",
@@ -11,6 +12,7 @@
           "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
+          "id":"1511",
           "name": "Помпа",
           "image": "https://mixicons.zrefio.com/api/items/3286/32/",
           "quantity": "≤ 3",
@@ -18,6 +20,7 @@
           "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
+          "id":"13298",
           "name": "Капсула с нефтью",
           "image": "https://mixicons.zrefio.com/api/items/2662/32/",
           "quantity": "≤ 16",
@@ -25,6 +28,7 @@
           "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
+          "id":"13299",
           "name": "Капсула с топливом",
           "image": "https://mixicons.zrefio.com/api/items/2663/32/",
           "quantity": "≤ 16",
@@ -32,6 +36,7 @@
           "costImage": "https://mixicons.zrefio.com/api/items/3949/32/"
         },
         {
+          "id":"0",
           "name": "Капсула с любым др. топливом",
           "image": "https://mixicons.zrefio.com/api/items/2660/32/",
           "quantity": "≤ 16",
