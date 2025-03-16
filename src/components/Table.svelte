@@ -28,6 +28,13 @@
 
 {#each sections as section}
   <section class="section" id={section.id}>
+    <!-- Advertisement Link -->
+    <div class="advert-link">
+      <a href="https://topcraft.club/servers/2900/">
+        <img src="https://topcraft.club/media/projects/2900/topb.png" alt="Topcraft Advertisement">
+      </a>
+    </div>
+    <!-- Advertisement Link -->
     <h1 class="combo">{section.title}</h1>
     <table>
       <thead>
