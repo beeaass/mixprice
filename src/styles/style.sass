@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap')
 
+// переменные цветов
 $primary-color: #555555
 $bg-light: #f5f6f8
 $bg-dark: #252525
@@ -16,6 +17,7 @@ $tooltip-bg-dark: #e0e0e0
 $tooltip-text-light: #ffffff
 $tooltip-text-dark: #333333
 
+// Основные стили
 :root
   --primary-color: #{$primary-color}
   --bg-color: #{$bg-light}
@@ -25,16 +27,34 @@ $tooltip-text-dark: #333333
   --table-row-hover-bg: #{$table-row-hover-light}
   --tooltip-bg: #{$tooltip-bg-light}
   --tooltip-text-color: #{$tooltip-text-light}
+  --section-bg: #f5f6f8
+  --section-border: #e0e0e0
+  --section-box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1)
+  --section-heading: #333
+  --table-row-bg: #ffffff
+  --table-text: #333
+  --table-row-hover: #f0f0f0
+  --table-row-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08)
 
-[data-theme='dark']
-  --bg-color: #{$bg-dark}
-  --text-color: #{$text-light}
-  --border-color: #{$border-dark}
-  --table-header-bg: #{$table-header-dark}
-  --table-row-hover-bg: #{$table-row-hover-dark}
-  --tooltip-bg: #{$tooltip-bg-dark}
-  --tooltip-text-color: #{$tooltip-text-dark}
+  // Темная тема
+  [data-theme='dark']
+    --bg-color: #{$bg-dark}
+    --text-color: #{$text-light}
+    --border-color: #{$border-dark}
+    --table-header-bg: #{$table-header-dark}
+    --table-row-hover-bg: #{$table-row-hover-dark}
+    --tooltip-bg: #{$tooltip-bg-dark}
+    --tooltip-text-color: #{$tooltip-text-dark}
+    --section-bg: linear-gradient(135deg, #2c2c2c, #1f1f1f)
+    --section-border: #444
+    --section-box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6)
+    --section-heading: #e0e0e0
+    --table-row-bg: #1f1f1f
+    --table-text: #e0e0e0
+    --table-row-hover: #383838
+    --table-row-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5)
 
+// Общие стили
 body
   font-family: 'Roboto', sans-serif
   background-color: var(--bg-color)
@@ -44,6 +64,7 @@ body
   line-height: 1.6
   transition: background-color 0.3s, color 0.3s
 
+// Header
 .header
   display: flex
   align-items: center
@@ -57,12 +78,79 @@ body
   z-index: 1000
   flex-wrap: wrap
 
+// Theme toggle
 #themeToggle
-  background: none 
-  border: none 
-  color: var(--text-color)
-  font-size: 28px
+  width: 60px
+  height: 30px
+  background-color: var(--border-color)
+  border-radius: 15px
+  position: relative
   cursor: pointer
-  transition: color 0.3s
-  margin-left: auto
+  transition: background-color 0.3s, box-shadow 0.3s
+  margin-left: 20px
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2)
 
+  &.dark
+    background-color: var(--primary-color)
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.5)
+
+  .toggle-knob
+    width: 26px
+    height: 26px
+    background-color: var(--bg-color)
+    border-radius: 50%
+    position: absolute
+    top: 2px
+    left: 2px
+    transition: left 0.3s, background-color 0.3s, box-shadow 0.3s
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.3)
+
+  &.dark .toggle-knob
+    left: 32px
+    background-color: var(--text-color)
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.5)
+
+// Preloader
+.preloader
+  position: fixed
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  background: #fff
+  display: flex
+  align-items: center
+  justify-content: center
+  z-index: 9999
+  opacity: 1
+  transition: opacity 0.3s ease
+
+  &.is-fading-out
+    opacity: 0
+
+// Spinner
+.spinner
+  display: flex
+  align-items: center
+  justify-content: space-between
+  width: 60px
+
+  > div
+    width: 12px
+    height: 12px
+    background-color: #3498db
+    border-radius: 50%
+    animation: bounce 1.4s infinite ease-in-out both
+
+  > div:nth-child(1)
+    animation-delay: -0.32s
+
+  > div:nth-child(2)
+    animation-delay: -0.16s
+
+@keyframes bounce
+  0%, 80%, 100%
+    transform: scale(0)
+
+  40%
+    transform: scale(1)

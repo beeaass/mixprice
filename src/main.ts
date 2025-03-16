@@ -3,7 +3,7 @@ import './styles/style.sass';
 import './styles/sidebar.sass';
 import './styles/table.sass';
 import './styles/search.sass';
-import './styles/mobile-style.sass';
+import './styles/mobilepage.sass';
 
 const app = new App({
   target: document.body,

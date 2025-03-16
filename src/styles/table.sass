@@ -1,65 +1,60 @@
 .section
-  max-width: 900px
-  margin: 30px auto
-  padding: 30px
-  background-color: var(--bg-color)
-  border-radius: 20px
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2)
-  transition: background-color 0.3s, box-shadow 0.3s
+  max-width: 1200px
+  margin: 50px auto
+  padding: 40px
+  background: var(--section-bg)
+  border-radius: 15px
+  box-shadow: var(--section-box-shadow)
+  border: 1px solid var(--section-border)
 
 .section h1
   text-align: center
-  margin-bottom: 30px
-  font-size: 2rem
-  color: var(--text-color)
-
-[data-theme='dark'] .section h1
-  color: var(--text-light)
+  font-size: 2.5rem
+  font-weight: bold
+  letter-spacing: 1.5px
+  margin-bottom: 20px
+  color: var(--section-heading)
 
 table
   width: 100%
-  border-collapse: collapse
-  margin: 30px 0
-  background-color: var(--bg-color)
-  border-radius: 8px
-  overflow: hidden
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
-
-thead
-  background-color: var(--table-header-bg)
-  color: var(--text-color)
+  border-collapse: separate
+  border-spacing: 0 8px
+  margin-top: 20px
+  background: transparent
 
 thead th
-  padding: 15px 20px
-  border-bottom: 1px solid var(--border-color)
   text-align: left
-
-/* Стили для заголовка столбца ID */
-thead th:nth-child(2)
-  width: 100px /* Ширина столбца ID */
+  padding: 12px 16px
+  background-color: #3b82f6
+  color: #fff
+  font-size: 14px
+  font-weight: 600
+  text-transform: uppercase
+  border-top-left-radius: 8px
+  border-top-right-radius: 8px
 
 tbody
-  color: var(--text-color)
+  tr
+    background-color: var(--table-row-bg)
+    transition: background-color 0.3s ease, transform 0.2s ease
+    border-radius: 8px
+    box-shadow: var(--table-row-box-shadow)
+    td
+      padding: 12px 16px
+      font-size: 15px
+      color: var(--table-text)
+      text-align: left
+      img
+        margin-right: 10px
+        vertical-align: middle
+    &:hover
+      background-color: var(--table-row-hover)
+      transform: scale(1.01)
 
-tbody tr
-  border-bottom: 1px solid var(--border-color)
-
-tbody tr:nth-child(odd)
-  background-color: var(--bg-color)
-
-tbody tr:hover
-  background-color: var(--table-row-hover-bg)
-
-tbody td
-  padding: 15px 20px
-  text-align: left
-  vertical-align: middle
+tfoot
+  background: var(--section-bg)
   font-size: 14px
-
-tbody td:nth-child(2)
-  width: 100p
-  color: var(--text-secondary-color)
-
-td img
-  vertical-align: middle
-  margin-right: 10px
+  font-weight: 600
+  text-align: center
+  padding: 8px
+  border-top: 1px solid var(--section-border)

@@ -24,9 +24,12 @@
       <li><a href="#BuildCraft"><img src="./images/bar/BuildCraft.png" alt="BuildCraft"><span>BuildCraft</span></a></li>
       <li><a href="#ComboArmors"><img src="./images/bar/ComboArmors.png" alt="Combo Armors"><span>Combo Armors</span></a></li>
       <li><a href="#BaseResource"><img src="./images/bar/BaseResource.png" alt="Base Resource"><span>Base Resource</span></a></li>
+      <li><a href="#Exchange"><img src="./images/bar/Exchange.png" alt="Exchange"><span>Обмен руд</span></a></li>
     </ul>
   </div>
-  <button id="themeToggle">🌙</button>
+  <div id="themeToggle" class="toggle">
+    <div class="toggle-knob"></div>
+  </div>  
 </div>
 
 
