@@ -8,28 +8,13 @@ import { Particles } from "./utils/particles";
 import "./App.scss";
 
 function App() {
-  const [showContent, setShowContent] = useState(false);
-  const [loaderVisible, setLoaderVisible] = useState(true);
   const [activeMod, setActiveMod] = useState(modSections[0].id);
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredModSections, setFilteredModSections] = useState(modSections);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setLoaderVisible(false);
-      setTimeout(() => {
-        setShowContent(true);
-      }, 1000);
-    }, 500);
-
-    return () => clearTimeout(timer);
+    new Particles("particles-canvas");
   }, []);
-
-  useEffect(() => {
-    if (showContent) {
-      new Particles("particles-canvas");
-    }
-  }, [showContent]);
 
   useEffect(() => {
     if (!searchTerm.trim()) {
@@ -54,17 +39,6 @@ function App() {
       setActiveMod(firstModWithResults.id);
     }
   }, [searchTerm]);
-
-  if (!showContent) {
-    return (
-      <div className={`loader ${loaderVisible ? "show" : ""}`}>
-        <div className="logo">
-          <img src="/logo.png" alt="MixPrice Logo" />
-        </div>
-        <p>Welcome to MixPrice</p>
-      </div>
-    );
-  }
 
   return (
     <>
