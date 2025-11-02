@@ -20,17 +20,19 @@
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   border-radius: 8px;
   position: relative;
   margin: 0 0.5rem;
+  border: 1px solid transparent;
 
   .tab-icon {
     width: 32px;
     height: 32px;
     object-fit: contain;
     image-rendering: pixelated;
-    transition: all 0.2s ease;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    filter: brightness(0.8);
   }
 
   .tab-title {
@@ -38,7 +40,7 @@
     top: 100%;
     left: 50%;
     transform: translateX(-50%);
-    background: var(--card-bg);
+    background: rgba(30, 30, 30, 0.35);
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 6px;
@@ -46,11 +48,12 @@
     white-space: nowrap;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.2s ease;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     pointer-events: none;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    border: 1px solid var(--border);
+    border: 1px solid rgba(99, 102, 241, 0.3);
     z-index: 10;
+    backdrop-filter: blur(10px);
 
     &::before {
       content: '';
@@ -60,15 +63,17 @@
       transform: translateX(-50%);
       border-width: 6px;
       border-style: solid;
-      border-color: transparent transparent var(--card-bg) transparent;
+      border-color: transparent transparent rgba(30, 30, 30, 0.95) transparent;
     }
   }
 
   &:hover {
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(99, 102, 241, 0.1);
+    border-color: rgba(99, 102, 241, 0.3);
 
     .tab-icon {
       transform: scale(1.1);
+      filter: brightness(1);
     }
 
     .tab-title {
@@ -79,41 +84,22 @@
   }
 
   &.active {
-    background: var(--primary);
-    box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
-  }
-}
-
-/* Мобильные стили */
-@media only screen and (max-width: 768px) {
-  .mod-tabs-container {
-    margin-bottom: 1rem;
-  }
-
-  .mod-tabs {
-    padding: 0.5rem;
-    width: 100%;
-    overflow-x: auto;
-    justify-content: flex-start;
-    -webkit-overflow-scrolling: touch;
-    &::-webkit-scrollbar {
-      display: none;
-    }
-  }
-
-  .mod-tab {
-    width: 48px;
-    height: 48px;
-    margin: 0 0.25rem;
-    flex-shrink: 0;
+    background: var(--accent-gradient);
+    box-shadow:
+      0 4px 15px rgba(99, 102, 241, 0.4),
+      0 0 0 1px rgba(99, 102, 241, 0.2);
+    border-color: rgba(99, 102, 241, 0.5);
 
     .tab-icon {
-      width: 28px;
-      height: 28px;
+      filter: brightness(1.2);
+      transform: scale(1.05);
     }
 
-    &:hover .tab-title {
-      display: none; // Скрываем подсказки при наведении на мобильных
+    &:hover {
+      background: var(--accent-gradient);
+      box-shadow:
+        0 6px 20px rgba(99, 102, 241, 0.5),
+        0 0 0 1px rgba(99, 102, 241, 0.3);
     }
   }
 }

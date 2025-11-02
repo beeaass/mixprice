@@ -1,17 +1,39 @@
 .item-card {
-  background: var(--card-bg);
+  background: rgba(30, 30, 30, 0.6);
   border-radius: 10px;
   padding: 1.2rem;
-  transition: all 0.2s ease;
-  border: 1px solid var(--border);
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  border: 1px solid rgba(51, 51, 51, 0.8);
   height: 100%;
   display: flex;
   flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--accent-gradient);
+    transform: scaleX(0);
+    transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
 
   &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    border-color: rgba(76, 175, 80, 0.3);
+    transform: translateY(-8px) scale(1.02);
+    box-shadow:
+      0 15px 40px rgba(99, 102, 241, 0.2),
+      0 5px 15px rgba(0, 0, 0, 0.3);
+    border-color: rgba(99, 102, 241, 0.6);
+    background: rgba(30, 30, 30, 0.85);
+
+    &::before {
+      transform: scaleX(1);
+    }
   }
 
   .item-meta {
@@ -24,9 +46,11 @@
     .item-id {
       font-size: 0.75rem;
       color: var(--text-light);
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(99, 102, 241, 0.1);
       padding: 0.2rem 0.5rem;
       border-radius: 6px;
+      border: 1px solid rgba(99, 102, 241, 0.2);
+      transition: all 0.3s ease;
     }
 
     .module-tag {
@@ -35,15 +59,18 @@
       padding: 0.2rem 0.5rem;
       border-radius: 4px;
       white-space: nowrap;
+      transition: all 0.3s ease;
 
       &.has-module {
-        background-color: rgba(76, 175, 80, 0.15);
+        background: linear-gradient(135deg, rgba(76, 175, 80, 0.25), rgba(76, 175, 80, 0.15));
         color: var(--primary);
+        border: 1px solid rgba(76, 175, 80, 0.4);
       }
 
       &.no-module {
-        background-color: rgba(255, 152, 0, 0.15);
+        background: linear-gradient(135deg, rgba(255, 152, 0, 0.25), rgba(255, 152, 0, 0.15));
         color: var(--secondary);
+        border: 1px solid rgba(255, 152, 0, 0.4);
       }
     }
   }
@@ -81,6 +108,8 @@
       overflow: hidden;
       text-overflow: ellipsis;
       word-break: break-word;
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+      transition: color 0.3s ease;
     }
   }
 
@@ -94,6 +123,8 @@
       font-size: 0.9rem;
       font-weight: 500;
       color: var(--secondary);
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+      transition: all 0.3s ease;
     }
 
     .price {
@@ -101,12 +132,51 @@
       align-items: center;
       gap: 0.5rem;
       font-size: 0.9rem;
-      font-weight: 500;
+      font-weight: 600;
       color: var(--primary);
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+      transition: all 0.3s ease;
 
       .currency-icon {
         width: 16px;
         height: 16px;
+        filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.5));
+        transition: transform 0.3s ease;
+      }
+    }
+  }
+
+  &:hover {
+    .item-name {
+      color: rgba(255, 255, 255, 0.95);
+    }
+
+    .item-id {
+      background: rgba(99, 102, 241, 0.2);
+      border-color: rgba(99, 102, 241, 0.4);
+    }
+
+    .module-tag {
+      &.has-module {
+        background: linear-gradient(135deg, rgba(76, 175, 80, 0.35), rgba(76, 175, 80, 0.2));
+        transform: translateY(-1px);
+      }
+
+      &.no-module {
+        background: linear-gradient(135deg, rgba(255, 152, 0, 0.35), rgba(255, 152, 0, 0.2));
+        transform: translateY(-1px);
+      }
+    }
+
+    .quantity {
+      color: #ffb74d;
+    }
+
+    .price {
+      color: #66bb6a;
+
+      .currency-icon {
+        transform: scale(1.1);
       }
     }
   }
@@ -115,6 +185,7 @@
 @media (max-width: 768px) {
   .item-card {
     padding: 1rem;
+    background: rgba(30, 30, 30, 0.7);
 
     .item-header {
       gap: 0.8rem;

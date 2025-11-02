@@ -1,17 +1,18 @@
-import React from "react";
+import React, { memo } from "react";
+
 import ItemCard from "../ItemCard/ItemCard";
 import "./ModSection.scss";
 
-const ModSection = ({ mod, isActive, showEmpty }) => {
+const ModSection = memo(({ mod, isActive, showEmpty }) => {
   if (!isActive) return null;
 
   return (
-    <div className="mod-section">
+    <div className={`mod-section ${isActive ? "active" : ""}`}>
       <h2>{mod.title}</h2>
       {mod.items.length > 0 ? (
         <div className="items-grid">
-          {mod.items.map((item) => (
-            <ItemCard key={item.id} item={item} />
+          {mod.items.map((item, index) => (
+            <ItemCard key={`${mod.id}_${item.id}_${index}`} item={item} />
           ))}
         </div>
       ) : (
@@ -19,6 +20,6 @@ const ModSection = ({ mod, isActive, showEmpty }) => {
       )}
     </div>
   );
-};
+});
 
 export default ModSection;
