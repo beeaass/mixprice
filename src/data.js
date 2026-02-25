@@ -1122,7 +1122,7 @@ export const modSections = [
         name: "Ветряк квантового напряжения (КН)",
         image: "https://mixicons.zrefio.com/api/items/3654/32/",
         quantity: "1",
-        cost: "≥ 15 конц. уран. блоков",
+        cost: "≥ 16 конц. уран. блоков",
         costImage: "https://mixicons.zrefio.com/api/items/3555/32/",
       },
       {

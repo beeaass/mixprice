@@ -1,4 +1,3 @@
-import React from "react";
 import "./ModTabs.scss";
 
 const ModTabs = ({ modSections, activeMod, setActiveMod }) => {
